@@ -1,0 +1,1 @@
+curl -d "param1=value1&param2=value2" -H "Content-type:application/json" -X POST http://localhost/TurboParser.php
